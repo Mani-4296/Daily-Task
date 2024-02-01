@@ -1,1 +1,1 @@
-Using this to save daily training task
+Using this repo to save daily training task
