@@ -1,2 +1,1 @@
-# Automation software test engineer
-# Using this to save daily training task
+Using this to save daily training task
